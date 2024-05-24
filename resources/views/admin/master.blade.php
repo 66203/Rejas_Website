@@ -48,7 +48,7 @@
             <div class="profile-desc">
               <div class="profile-pic">
                 <div class="count-indicator">
-                  <img class="img-xs rounded-circle " src="{{ asset('images/testimonial1.jpg') }}" alt="">
+                  <img class="img-xs rounded-circle " src="{{ asset('images/profile.jpg') }}" alt="">
                   <span class="count bg-success"></span>
                 </div>
                 <div class="profile-name">

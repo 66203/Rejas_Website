@@ -49,7 +49,7 @@
                                 </div>
 
                                 <div class="my-2">
-                                    <label for="image1"> Image 1 </label>
+                                    <label for="image1"> Image </label>
                                     <input type="file" name="image1" id="image1" class="form-control">
                                 </div>
                                 <div class="my-2">
